@@ -2,6 +2,7 @@
   <img src="https://www.tensorflow.org/images/tf_logo_social.png">
 </div>
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/894883cedbaf49c7aba249df11b23477)](https://app.codacy.com/gh/dlminvestments/tensorflow?utm_source=github.com&utm_medium=referral&utm_content=dlminvestments/tensorflow&utm_campaign=Badge_Grade_Settings)
 [![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=plastic)](https://badge.fury.io/py/tensorflow)
 [![PyPI](https://badge.fury.io/py/tensorflow.svg)](https://badge.fury.io/py/tensorflow)
 
