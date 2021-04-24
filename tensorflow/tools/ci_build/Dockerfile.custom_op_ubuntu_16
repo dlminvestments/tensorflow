@@ -1,6 +1,6 @@
 # Dockerfile for Ubuntu 16.04 manylinux2010 custom ops with CPU.
 
-FROM ubuntu:groovy-20210325 as devtoolset
+FROM ubuntu:20.10 as devtoolset
 
 LABEL maintainer="Amit Patankar <amitpatankar@google.com>"
 
@@ -31,7 +31,7 @@ RUN /build_devtoolset.sh devtoolset-7 /dt7
 RUN /build_devtoolset.sh devtoolset-8 /dt8
 
 # TODO(klimek): Split up into two different docker images.
-FROM ubuntu:groovy-20210325
+FROM ubuntu:20.10
 
 LABEL maintainer="Amit Patankar <amitpatankar@google.com>"
 
