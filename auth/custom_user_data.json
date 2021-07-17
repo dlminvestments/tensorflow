@@ -1,0 +1,7 @@
+{
+    "enabled": true,
+    "mongo_service_name": "IBM-VM-1",
+    "database_name": "sample_training",
+    "collection_name": "companies",
+    "user_id_field": "IBM"
+}

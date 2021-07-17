@@ -1,0 +1,13 @@
+{
+    "state": "enabled",
+    "partition": {
+        "key": "business_name",
+        "type": "string",
+        "permissions": {
+            "read": {},
+            "write": {}
+        }
+    },
+    "development_mode_enabled": false,
+    "service_name": "IBM-VM-1"
+}

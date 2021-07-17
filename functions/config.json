@@ -1,0 +1,16 @@
+[
+    {
+        "name": "function0",
+        "private": false
+    },
+    {
+        "name": "function01",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "function111",
+        "private": false,
+        "run_as_system": true
+    }
+]

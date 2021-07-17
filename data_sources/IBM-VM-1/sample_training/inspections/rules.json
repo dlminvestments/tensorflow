@@ -1,0 +1,30 @@
+{
+    "collection": "inspections",
+    "database": "sample_training",
+    "roles": [
+        {
+            "name": "default",
+            "apply_when": {},
+            "fields": {
+                "VM-1": {}
+            },
+            "write": true,
+            "insert": true,
+            "delete": true,
+            "search": true,
+            "additional_fields": {}
+        },
+        {
+            "name": "role 2",
+            "apply_when": {},
+            "fields": {
+                "VM-1": {}
+            },
+            "write": true,
+            "insert": false,
+            "delete": false,
+            "search": true,
+            "additional_fields": {}
+        }
+    ]
+}

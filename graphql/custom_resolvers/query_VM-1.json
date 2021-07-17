@@ -1,0 +1,8 @@
+{
+    "field_name": "VM-1",
+    "function_name": "function0",
+    "input_type": "string",
+    "input_type_format": "scalar",
+    "on_type": "Query",
+    "payload_type_format": ""
+}
