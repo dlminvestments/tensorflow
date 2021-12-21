@@ -1,7 +1,7 @@
 snyk-fix-3f3ef10ddd5e094c948dc5330d1b9412
 FROM debian:latest
 =======
-FROM debian:bullseye-20211011
+FROM debian:11
 master
 
 LABEL maintainer="Jan Prach <jendap@google.com>"
