@@ -15,11 +15,19 @@
         <maven.compiler.source>1.6</maven.compiler.source>
         <maven.compiler.target>1.6</maven.compiler.target>
 snyk-upgrade-2003dc1f78a47ab3cc6496247896d63d
+snyk-upgrade-f61ad57af10bbd7f1871f3ae0a9d399d
+        <hadoop.version>3.3.5</hadoop.version>
+        <protobuf.version>3.23.0</protobuf.version>
+=======
+        <hadoop.version>3.3.5</hadoop.version>
+        <protobuf.version>3.23.0</protobuf.version>
+=======
         <hadoop.version>3.3.6</hadoop.version>
         <protobuf.version>3.22.4</protobuf.version>
 =======
         <hadoop.version>3.3.6</hadoop.version>
         <protobuf.version>3.22.4</protobuf.version>
+master
 master
         <junit.version>4.13.1</junit.version>
     </properties>
